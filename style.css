@@ -126,3 +126,15 @@ img{
         color: rgb(117, 117, 117);
     }
 }
+
+@media (max-width: 800px) and (min-width: 550px){
+    main{
+        width: 50%;
+    }
+}
+
+@media (max-width: 550px){
+    main{
+        width: 90%;
+    }
+}
