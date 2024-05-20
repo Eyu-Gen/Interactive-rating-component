@@ -1,1 +1,1 @@
-# InteractiveRating Component
+# Interactive Rating Component
